@@ -5,6 +5,8 @@ Automatically exported from code.google.com/p/python-socks5
 
 python-socks5 tweaked to detect serval SIDs as target addresses. A servald binary must be present in PATH. SOCKS client must be set to resolve hostnames through the proxy.
 
+Additional documentation: http://otg-living.blogspot.de/2016/02/one-proxy-to-rule-them-all.html
+
 ## Usage
 Example:
 
