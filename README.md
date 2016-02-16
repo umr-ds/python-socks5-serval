@@ -1,7 +1,9 @@
-# python-socks5
+# python-socks5-serval
 Automatically exported from code.google.com/p/python-socks5
 
-tweaked to detect serval SIDs as target addresses. A servald binary must be present in PATH. SOCKS client must be set to resolve hostnames through the proxy.
+## DIRTY HACK!!! DO NOT USE!!! PROOF OF CONCEPT
+
+python-socks5 tweaked to detect serval SIDs as target addresses. A servald binary must be present in PATH. SOCKS client must be set to resolve hostnames through the proxy.
 
 ## Usage
 Example:
